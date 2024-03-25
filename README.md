@@ -65,11 +65,8 @@ abcd
 
 ---
 
-this is a pictures
-
-[this text in image](image1.png)
-
-![this text2 in image2](image2.png)
+this is a picture
+![this text2 in image2](icon.ico)
 
 ---
 
