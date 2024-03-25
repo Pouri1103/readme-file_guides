@@ -36,9 +36,9 @@ this taxt is **Bold** and *italic* and both ***text***
 
 ---
 
-1.this item 1
-2.this item 2
-3.this item 3
+1. this item 1
+1. this item 2
+1. this item 3
 
 
 1. this item 1
@@ -66,9 +66,9 @@ abcd
 
 this is a pictures
 
-[this text in image]("/image1.png")
+[this text in image]("./image1.png")
 
-![this text2 in image2]("./image2.png")
+![this text2 in image2]("/image2.png")
 
 ---
 
