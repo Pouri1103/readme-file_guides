@@ -37,9 +37,8 @@ this taxt is **Bold** and *italic* and both ***text***
 ---
 
 1.this item 1
-1.this item 2
-1.this item 3
-1.this item 4
+2.this item 2
+3.this item 3
 
 
 1. this item 1
@@ -55,6 +54,7 @@ this taxt is **Bold** and *italic* and both ***text***
 - this item 2
 - this item 3
 
+abcd
 
 - this item 1
 - this item 2
@@ -64,23 +64,17 @@ this taxt is **Bold** and *italic* and both ***text***
 
 ---
 
-this is a picture
+this is a pictures
 
-[this text in image]("C:\Users\Pouriya\Desktop\GIt For md\image1.png")
+[this text in image]("/image1.png")
 
-![this text2 in image2]("C:\Users\Pouriya\Desktop\GIt For md\image2.png")
+![this text2 in image2]("./image2.png")
 
 ---
 
 aaaa
 ---
 bbbb
-
-
-cccc...
----
-...dddd
-
 
 ---
 
