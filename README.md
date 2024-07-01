@@ -82,3 +82,30 @@ bbbb
 
 > and this syntax :
 >>  <https://www.markdownguide.org/basic-syntax/#headings>
+
+---
+
+> [!IMPORTANT]\
+> This text is a example for Important.
+
+---
+
+> [!WARNING]\
+> This text is a example for Warning. 
+
+---
+
+> [!NOTE]\
+> This text is a example for Note.
+
+---
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+```
